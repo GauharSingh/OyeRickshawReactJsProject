@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Images in ReadMe.This is what it does!
+## This is what it does!
 
 ![](images/ConsoleDisplay.PNG)
 
