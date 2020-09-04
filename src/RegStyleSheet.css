@@ -1,0 +1,30 @@
+.grid-container {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  grid-row-gap: 0px;
+  grid-template-columns: auto auto auto auto;
+  background-color: #ecf3f8;
+  padding: 14px;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 14px;
+  font-size: 14px;
+  text-align: center;
+}
+
+input[type="checkbox"] {
+  justify-self: start;
+  width: auto;
+}
+
+.color {
+  color: lightseagreen;
+}
+
+.btn{
+  margin-right: 5px;
+}
